@@ -1,0 +1,41 @@
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video { margin: 0; padding: 0; border: 0; font-size: 100%; font: inherit; vertical-align: baseline; }
+
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section { display: block; }
+
+body { line-height: 1; }
+
+ol, ul { list-style: none; }
+
+blockquote, q { quotes: none; }
+
+blockquote:before, blockquote:after, q:before, q:after { content: ""; content: none; }
+
+table { border-collapse: collapse; border-spacing: 0; }
+
+textarea { resize: vertical; }
+
+a { text-decoration: none; }
+
+.reset { clear: both; }
+
+@media print { * { background: transparent !important; color: black !important; box-shadow: none !important; text-shadow: none !important; }
+  tr, img { page-break-inside: avoid; }
+  img { max-width: 100% !important; }
+  @page { margin: 0.5cm; }
+  h1, h2, h3 { page-break-after: avoid; } }
+@font-face { font-family: "ClanOT-Bold"; src: url("ClanOT-Bold_0.eot"); src: url("ClanOT-Bold_0.eot?#iefix") format("embedded-opentype"), url("ClanOT-Bold_0.woff") format("woff"), url("ClanOT-Bold_0.ttf") format("truetype"); font-weight: normal; font-style: normal; }
+
+@font-face { font-family: "ClanOT-Book"; src: url("ClanOT-Book_0.eot"); src: url("ClanOT-Book_0.eot?#iefix") format("embedded-opentype"), url("ClanOT-Book_0.woff") format("woff"), url("ClanOT-Book_0.ttf") format("truetype"); font-weight: normal; font-style: normal; }
+
+@font-face { font-family: "ClanOT-Thin"; src: url("ClanOT-Thin_0.eot"); src: url("ClanOT-Thin_0.eot?#iefix") format("embedded-opentype"), url("ClanOT-Thin_0.woff") format("woff"), url("ClanOT-Thin_0.ttf") format("truetype"); font-weight: normal; font-style: normal; }
+
+body { width: 810px; margin: 0 auto; position: relative; }
+body iframe { margin: 0 auto 30px; display: block; }
+
+.main-header { width: 100%; height: 162px; font-size: 15px; line-height: 18px; color: #6f6d61; font-family: "ClanOT-Thin"; position: relative; background: url(../images/header-bg.jpg) no-repeat center top; margin-bottom: 30px; }
+.main-header .title { font-family: "ClanOT-Book"; color: #f68220; font-size: 42px; line-height: 44px; }
+.main-header .info-box { position: absolute; width: 430px; bottom: 0; left: 30px; }
+.main-header .platform-title { font-size: 17px; line-height: 18px; color: white; font-family: "ClanOT-Thin"; position: absolute; right: 20px; top: 52px; text-align: center; }
+.main-header .platform-title span { font-family: "ClanOT-Bold"; font-size: 42px; line-height: 44px; }
+
+.footer { margin: 0 auto; display: block; }

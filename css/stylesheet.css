@@ -1,0 +1,69 @@
+/*font-face*/
+
+@font-face {
+font-family: 'ClanOT-Bold';
+src: url('ClanOT-Bold_0.eot');
+src: url('ClanOT-Bold_0.eot?#iefix') format('embedded-opentype'),
+    url('ClanOT-Bold_0.woff') format('woff'),
+    url('ClanOT-Bold_0.ttf') format('truetype');
+font-weight: normal;
+font-style: normal;
+}
+
+
+@font-face {
+font-family: 'ClanOT-Book';
+src: url('ClanOT-Book_0.eot');
+src: url('ClanOT-Book_0.eot?#iefix') format('embedded-opentype'),
+    url('ClanOT-Book_0.woff') format('woff'),
+    url('ClanOT-Book_0.ttf') format('truetype');
+font-weight: normal;
+font-style: normal;
+}
+
+@font-face {
+font-family: 'ClanOT-Thin';
+src: url('ClanOT-Thin_0.eot');
+src: url('ClanOT-Thin_0.eot?#iefix') format('embedded-opentype'),
+    url('ClanOT-Thin_0.woff') format('woff'),
+    url('ClanOT-Thin_0.ttf') format('truetype');
+font-weight: normal;
+font-style: normal;
+}
+
+/*
+
+@font-face {
+font-family: 'ClanOT-Bold';
+src: url('clanot-bold_0.eot');
+src: url('clanot-bold_0.eot?#iefix') format('embedded-opentype'),
+    url('clanot-bold_0.woff') format('woff'),
+    url('clanot-bold_0.ttf') format('truetype'),
+    url('clanot-bold_0.svg#clanot-bold_0') format('svg');
+font-weight: normal;
+font-style: normal;
+}
+
+
+@font-face {
+font-family: 'ClanOT-Book';
+src: url('clanot-book_0.eot');
+src: url('clanot-book_0.eot?#iefix') format('embedded-opentype'),
+    url('clanot-book_0.woff') format('woff'),
+    url('clanot-book_0.ttf') format('truetype'),
+    url('clanot-book_0.svg#clanot-book_0') format('svg');
+font-weight: normal;
+font-style: normal;
+}
+
+@font-face {
+font-family: 'ClanOT-Thin';
+src: url('clanot-thin_0.eot');
+src: url('clanot-thin_0.eot?#iefix') format('embedded-opentype'),
+    url('clanot-thin_0.woff') format('woff'),
+    url('clanot-thin_0.ttf') format('truetype'),
+    url('clanot-thin_0.svg#clanot-thin_0') format('svg');
+font-weight: normal;
+font-style: normal;
+}
+*/
